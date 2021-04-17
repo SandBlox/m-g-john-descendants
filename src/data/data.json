@@ -76,29 +76,29 @@
   "configurations": {
     "title": "M. G. John Descendants",
     "orientation": "vertical",
-    "translateX": 637.52783203125,
-    "translateY": 546.6666870117188,
-    "pathFunc": "diagonal",
+    "translateX": 328.4199951171875,
+    "translateY": 250,
+    "pathFunc": "step",
     "renderCustomNodeElement": "svg",
     "collapsible": true,
     "shouldCollapseNeighborNodes": false,
-    "initialDepth": 1,
+    "initialDepth": 2,
     "depthFactor": null,
     "zoomable": true,
-    "zoom": 1,
+    "zoom": 0.5,
     "scaleExtent": {
       "min": 0.1,
       "max": 1
     },
     "separation": {
-      "siblings": 2,
-      "nonSiblings": 2
+      "siblings": 1.25,
+      "nonSiblings": 1.25
     },
     "nodeSize": {
       "x": 200,
-      "y": 200
+      "y": 125
     },
-    "enableLegacyTransitions": false,
+    "enableLegacyTransitions": true,
     "transitionDuration": 500,
     "styles": {
       "nodes": {
