@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/family-tree-editor/static/css/main.0df9e0f3.chunk.css",
-    "main.js": "/family-tree-editor/static/js/main.dae44b25.chunk.js",
-    "main.js.map": "/family-tree-editor/static/js/main.dae44b25.chunk.js.map",
-    "runtime-main.js": "/family-tree-editor/static/js/runtime-main.5a7a9abc.js",
-    "runtime-main.js.map": "/family-tree-editor/static/js/runtime-main.5a7a9abc.js.map",
-    "static/css/2.5c17b9f1.chunk.css": "/family-tree-editor/static/css/2.5c17b9f1.chunk.css",
-    "static/js/2.74334acb.chunk.js": "/family-tree-editor/static/js/2.74334acb.chunk.js",
-    "static/js/2.74334acb.chunk.js.map": "/family-tree-editor/static/js/2.74334acb.chunk.js.map",
-    "index.html": "/family-tree-editor/index.html",
-    "precache-manifest.410d9ce02f02effa5a4539a63fdc73cc.js": "/family-tree-editor/precache-manifest.410d9ce02f02effa5a4539a63fdc73cc.js",
-    "service-worker.js": "/family-tree-editor/service-worker.js",
-    "static/css/2.5c17b9f1.chunk.css.map": "/family-tree-editor/static/css/2.5c17b9f1.chunk.css.map",
-    "static/css/main.0df9e0f3.chunk.css.map": "/family-tree-editor/static/css/main.0df9e0f3.chunk.css.map",
-    "static/js/2.74334acb.chunk.js.LICENSE.txt": "/family-tree-editor/static/js/2.74334acb.chunk.js.LICENSE.txt"
+    "main.css": "/m-g-john-descendants/static/css/main.0df9e0f3.chunk.css",
+    "main.js": "/m-g-john-descendants/static/js/main.e328a340.chunk.js",
+    "main.js.map": "/m-g-john-descendants/static/js/main.e328a340.chunk.js.map",
+    "runtime-main.js": "/m-g-john-descendants/static/js/runtime-main.6147fd27.js",
+    "runtime-main.js.map": "/m-g-john-descendants/static/js/runtime-main.6147fd27.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/m-g-john-descendants/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.74334acb.chunk.js": "/m-g-john-descendants/static/js/2.74334acb.chunk.js",
+    "static/js/2.74334acb.chunk.js.map": "/m-g-john-descendants/static/js/2.74334acb.chunk.js.map",
+    "index.html": "/m-g-john-descendants/index.html",
+    "precache-manifest.57aba78c58c8eee49df039fa86028d36.js": "/m-g-john-descendants/precache-manifest.57aba78c58c8eee49df039fa86028d36.js",
+    "service-worker.js": "/m-g-john-descendants/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/m-g-john-descendants/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.0df9e0f3.chunk.css.map": "/m-g-john-descendants/static/css/main.0df9e0f3.chunk.css.map",
+    "static/js/2.74334acb.chunk.js.LICENSE.txt": "/m-g-john-descendants/static/js/2.74334acb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a7a9abc.js",
+    "static/js/runtime-main.6147fd27.js",
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js",
     "static/css/main.0df9e0f3.chunk.css",
-    "static/js/main.dae44b25.chunk.js"
+    "static/js/main.e328a340.chunk.js"
   ]
 }
