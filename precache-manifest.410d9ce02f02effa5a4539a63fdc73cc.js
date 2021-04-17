@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35a46ebcab4c26da5ccca847842d70be",
+    "revision": "b2f1d392314b381083f35de7ac37e19b",
     "url": "/family-tree-editor/index.html"
   },
   {
