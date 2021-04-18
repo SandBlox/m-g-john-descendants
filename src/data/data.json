@@ -64,7 +64,17 @@
                 "attributes": {
                   "Wife": "Mariamma"
                 },
-                "children": null
+                "children": [
+                  {
+                    "name": "M.G. Annamma (Ponnamma)",
+                    "attributes": {
+                      ":": "1926-1983",
+                      "Husband": "P.J. Abraham",
+                      "": "????-2000"
+                    },
+                    "children": null
+                  }
+                ]
               },
               {
                 "name": "M.G. Kunjamma",
