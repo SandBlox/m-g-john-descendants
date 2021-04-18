@@ -4,15 +4,15 @@
     "attributes": {},
     "children": [
       {
-        "name": "Manager",
+        "name": "Geevarghese Cheriyan",
         "attributes": {
-          "Department": "Production"
+          "Wife": "Kochitamma"
         },
         "children": [
           {
-            "name": "Foreman",
+            "name": "M.G. Cheria",
             "attributes": {
-              "Department": "Fabrication"
+              "Wife": "Annamma"
             },
             "children": [
               {
@@ -23,9 +23,9 @@
             ]
           },
           {
-            "name": "Foreman",
+            "name": "M.G. Thommi",
             "attributes": {
-              "Department": "Assembly"
+              "Wife": "Mariamma"
             },
             "children": [
               {
@@ -38,9 +38,9 @@
         ]
       },
       {
-        "name": "Manager",
+        "name": "Mathai Cheriyan",
         "attributes": {
-          "Department": "Marketing"
+          "Wife": "Mariamma"
         },
         "children": [
           {
