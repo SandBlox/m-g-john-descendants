@@ -75,11 +75,79 @@
                     "children": null
                   },
                   {
-                    "name": "M.J. Rachel (Rosamma)",
+                    "name": "Rachel Ninan (Rosamma)",
                     "attributes": {
                       "::": "1928-1964",
                       "Husband": "P.O. Ninan (Thankachen)",
                       ":": "1928-1977"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.J. Varghese (Kuttappan)",
+                    "attributes": {
+                      "::": "1930-1939"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.J. Rajan",
+                    "attributes": {
+                      "::": "1932-1996",
+                      "Wife": "Valsamma",
+                      ":": "1938-2018"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.J. Mary (Thankamma)",
+                    "attributes": {
+                      "::": "1935-1939"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Mary John (Mercy)",
+                    "attributes": {
+                      "::": "1939",
+                      "Husband": "John Thomas",
+                      ":": "????"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M. John Joy",
+                    "attributes": {
+                      "::": "1939",
+                      "Wife": "Cicily Joy",
+                      ":": "1955"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Sosamma Varghese (Ivy)",
+                    "attributes": {
+                      "::": "1942",
+                      "Husband": "P.C. Varghesekunju (Achenkunju)",
+                      ":": "1936-1990"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Johnson Manappallil (Thankachen)",
+                    "attributes": {
+                      "::": "1944",
+                      "Wife": "Annamma Johnson",
+                      ":": "????"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Alexander M. John (Laly)",
+                    "attributes": {
+                      "::": "1946",
+                      "Wife": "Molly",
+                      ":": "????"
                     },
                     "children": null
                   }
