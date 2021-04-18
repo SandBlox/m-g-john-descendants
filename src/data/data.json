@@ -1,7 +1,9 @@
 {
   "tree": {
     "name": "Cheriyan Alintethekkathil, Pandalam",
-    "attributes": {},
+    "attributes": {
+      "Wife": "Name unknown"
+    },
     "children": [
       {
         "name": "Geevarghese Cheriyan",
@@ -10,30 +12,117 @@
         },
         "children": [
           {
-            "name": "M.G. Cheria",
+            "name": "M.G. Cheria (Kochukunju)",
             "attributes": {
               "Wife": "Annamma"
             },
-            "children": [
-              {
-                "name": "Workers",
-                "attributes": {},
-                "children": null
-              }
-            ]
+            "children": null
           },
           {
             "name": "M.G. Thommi",
             "attributes": {
               "Wife": "Mariamma"
             },
+            "children": null
+          },
+          {
+            "name": "M.G. Cheriyan",
+            "attributes": {
+              "Wife": "Saramma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. John (Ranger)",
+            "attributes": {
+              "Wife": "Achamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Easow",
+            "attributes": {
+              "Wife": "Aleyamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Geevarghese (Writer)",
+            "attributes": {
+              "Wife": "Annamma"
+            },
             "children": [
               {
-                "name": "Workers",
-                "attributes": {},
+                "name": "M.G.Varghese (Unni)",
+                "attributes": {
+                  "Wife": "Achamma/Aleyamma"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. John",
+                "attributes": {
+                  "Wife": "Mariamma"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Kunjamma",
+                "attributes": {
+                  "Husband": "K.G. Varghese"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G.Thomas",
+                "attributes": {
+                  "Wife": "Kunjamma"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Chinnamma",
+                "attributes": {
+                  "Husband": "Rev.Fr. George Purackal"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Thankamma",
+                "attributes": {
+                  "Husband": "Itty Kaipancherril"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Samuel",
+                "attributes": {
+                  "Wife": "Saramma"
+                },
                 "children": null
               }
             ]
+          },
+          {
+            "name": "M.G. Mathen",
+            "attributes": {
+              "Wife": "Rahelamma"
+            },
+            "children": null
+          },
+          {
+            "name": "Rev.Fr. M.G. Jacob (Chackochen)",
+            "attributes": {
+              "Wife": "Mariamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Daniel",
+            "attributes": {
+              "Wife": "Aleyamma"
+            },
+            "children": null
           }
         ]
       },
@@ -42,34 +131,7 @@
         "attributes": {
           "Wife": "Mariamma"
         },
-        "children": [
-          {
-            "name": "Sales Officer",
-            "attributes": {
-              "Department": "A"
-            },
-            "children": [
-              {
-                "name": "Salespeople",
-                "attributes": {},
-                "children": null
-              }
-            ]
-          },
-          {
-            "name": "Sales Officer",
-            "attributes": {
-              "Department": "B"
-            },
-            "children": [
-              {
-                "name": "Salespeople",
-                "attributes": {},
-                "children": null
-              }
-            ]
-          }
-        ]
+        "children": null
       }
     ]
   },
