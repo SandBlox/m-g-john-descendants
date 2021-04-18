@@ -90,14 +90,14 @@
               {
                 "name": "M.G. Thankamma",
                 "attributes": {
-                  "Husband": "Itty Kaipancherril"
+                  "husband": "Itty Kaipancherril"
                 },
                 "children": null
               },
               {
                 "name": "M.G. Samuel",
                 "attributes": {
-                  "Wife": "Saramma"
+                  "wife": "Saramma"
                 },
                 "children": null
               }
