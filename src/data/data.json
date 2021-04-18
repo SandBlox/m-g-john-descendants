@@ -135,7 +135,17 @@
                       "Husband": "P.O. Ninan (Thankachen)",
                       ":": "1928-1977"
                     },
-                    "children": null
+                    "children": [
+                      {
+                        "name": "Beena Jacob",
+                        "attributes": {
+                          "::": "?????-????",
+                          "Husband": "??",
+                          ":": "????"
+                        },
+                        "children": null
+                      }
+                    ]
                   },
                   {
                     "name": "M.J. Varghese (Kuttappan)",
@@ -151,7 +161,35 @@
                       "Wife": "Valsamma",
                       ":": "1938-2018"
                     },
-                    "children": null
+                    "children": [
+                      {
+                        "name": "Leena Sunny",
+                        "attributes": {
+                          "::": "1962",
+                          "Husband": "Sunny Philip",
+                          ":": "????"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Latha Salim",
+                        "attributes": {
+                          "::": "1964",
+                          "Husband": "Salim Thayyil",
+                          ":": "????"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Beena Saji",
+                        "attributes": {
+                          "::": "1972",
+                          "Husband": "Saji Zachariah",
+                          ":": "????"
+                        },
+                        "children": null
+                      }
+                    ]
                   },
                   {
                     "name": "M.J. Mary (Thankamma)",
