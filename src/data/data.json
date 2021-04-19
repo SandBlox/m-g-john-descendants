@@ -238,10 +238,73 @@
                     "name": "Alexander M. John (Laly)",
                     "attributes": {
                       "::": "1946",
-                      "Wife": "Molly",
-                      ":": "????"
+                      "Wife": "Molly Alexander",
+                      ":": "1949"
                     },
-                    "children": null
+                    "children": [
+                      {
+                        "name": "Jeni Manoj",
+                        "attributes": {
+                          "::": "1980",
+                          "Husband": "Manoj Jacob",
+                          ":": "1980"
+                        },
+                        "children": [
+                          {
+                            "name": "Nathan Jacob Manoj",
+                            "attributes": {
+                              "::": "2008"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Janice Manoj",
+                            "attributes": {
+                              "::": "1982"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "John Alexander M (Jerin)",
+                        "attributes": {
+                          "::": "1982",
+                          "Wife": "Linju John M",
+                          ":": "1984"
+                        },
+                        "children": [
+                          {
+                            "name": "Kesia Susan John",
+                            "attributes": {
+                              "::": "2012"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Ivana Mary John",
+                            "attributes": {
+                              "::": "2014"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Jayden John Alexander",
+                            "attributes": {
+                              "::": "2017"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Dan John Varghese",
+                            "attributes": {
+                              "::": "2020"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
