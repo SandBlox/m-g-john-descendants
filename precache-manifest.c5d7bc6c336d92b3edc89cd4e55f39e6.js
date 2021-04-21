@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8855b6af949c46edd26ceced9944394a",
+    "revision": "f91598f12ffbf4e016f6a887d4993ce5",
     "url": "/m-g-john-descendants/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/m-g-john-descendants/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "3b963b6f4b86b726849e",
+    "revision": "1a97bed95d5063502ac1",
     "url": "/m-g-john-descendants/static/css/main.0df9e0f3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/m-g-john-descendants/static/js/2.74334acb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b963b6f4b86b726849e",
-    "url": "/m-g-john-descendants/static/js/main.7887be61.chunk.js"
+    "revision": "1a97bed95d5063502ac1",
+    "url": "/m-g-john-descendants/static/js/main.142e7071.chunk.js"
   },
   {
     "revision": "116f863446e7e88588c2",
