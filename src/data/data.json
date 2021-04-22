@@ -387,6 +387,47 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "name": "Seena P. Ninan",
+                        "attributes": {
+                          "::": "1961-2003",
+                          "Husband": "John Kurien",
+                          ":": "????"
+                        },
+                        "children": [
+                          {
+                            "name": "Jiss Rachel John",
+                            "attributes": {
+                              "::": "1991",
+                              "Husband": "Aby Joseph",
+                              ":": "1988"
+                            },
+                            "children": [
+                              {
+                                "name": "Evan Aby",
+                                "attributes": {
+                                  "::": "2016"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Essa Aby",
+                                "attributes": {
+                                  "::": "2018"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Jee Ninan John",
+                            "attributes": {
+                              "::": "1992"
+                            },
+                            "children": null
+                          }
+                        ]
                       }
                     ]
                   },
