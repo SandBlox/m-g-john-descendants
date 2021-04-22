@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/m-g-john-descendants/static/css/main.0df9e0f3.chunk.css",
-    "main.js": "/m-g-john-descendants/static/js/main.30b48ce5.chunk.js",
-    "main.js.map": "/m-g-john-descendants/static/js/main.30b48ce5.chunk.js.map",
+    "main.js": "/m-g-john-descendants/static/js/main.88f40cb8.chunk.js",
+    "main.js.map": "/m-g-john-descendants/static/js/main.88f40cb8.chunk.js.map",
     "runtime-main.js": "/m-g-john-descendants/static/js/runtime-main.6147fd27.js",
     "runtime-main.js.map": "/m-g-john-descendants/static/js/runtime-main.6147fd27.js.map",
     "static/css/2.5c17b9f1.chunk.css": "/m-g-john-descendants/static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js": "/m-g-john-descendants/static/js/2.74334acb.chunk.js",
     "static/js/2.74334acb.chunk.js.map": "/m-g-john-descendants/static/js/2.74334acb.chunk.js.map",
     "index.html": "/m-g-john-descendants/index.html",
-    "precache-manifest.1875066ef0f5a668c10627e4101c049b.js": "/m-g-john-descendants/precache-manifest.1875066ef0f5a668c10627e4101c049b.js",
+    "precache-manifest.56147e5d6c969f34d7b07db6af730800.js": "/m-g-john-descendants/precache-manifest.56147e5d6c969f34d7b07db6af730800.js",
     "service-worker.js": "/m-g-john-descendants/service-worker.js",
     "static/css/2.5c17b9f1.chunk.css.map": "/m-g-john-descendants/static/css/2.5c17b9f1.chunk.css.map",
     "static/css/main.0df9e0f3.chunk.css.map": "/m-g-john-descendants/static/css/main.0df9e0f3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.5c17b9f1.chunk.css",
     "static/js/2.74334acb.chunk.js",
     "static/css/main.0df9e0f3.chunk.css",
-    "static/js/main.30b48ce5.chunk.js"
+    "static/js/main.88f40cb8.chunk.js"
   ]
 }
