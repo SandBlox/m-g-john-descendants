@@ -62,7 +62,9 @@
               {
                 "name": "M.G. John",
                 "attributes": {
-                  "Wife": "Mariamma"
+                  "::": "1900-1979",
+                  "Wife": "Mariamma John",
+                  ":": "1908-1987"
                 },
                 "children": [
                   {
@@ -933,7 +935,7 @@
               {
                 "name": "M.G. Samuel",
                 "attributes": {
-                  "Wife": "Saramma"
+                  "Wife": "Saramma Samuel"
                 },
                 "children": null
               }
