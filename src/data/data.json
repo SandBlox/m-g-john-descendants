@@ -788,10 +788,10 @@
                     },
                     "children": [
                       {
-                        "name": "Mini Bobby",
+                        "name": "Mini Bobby Oommen",
                         "attributes": {
                           "::": "1974",
-                          "Husband": "Bobby Philips",
+                          "Husband": "Bobby Oommen Philips",
                           ":": "1969"
                         },
                         "children": [
@@ -803,7 +803,7 @@
                             "children": null
                           },
                           {
-                            "name": "Joanna Sara Philip",
+                            "name": "Joanna Sarah Oommen",
                             "attributes": {
                               "::": "2004"
                             },
@@ -820,7 +820,7 @@
                         },
                         "children": [
                           {
-                            "name": "Sara Anna John",
+                            "name": "Sarah Anna John",
                             "attributes": {
                               "::": "2019"
                             },
