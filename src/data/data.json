@@ -1,1 +1,1034 @@
-
+{
+  "tree": {
+    "name": "Cheriyan Alintethekkathil, Pandalam",
+    "attributes": {
+      "Wife": "Name unknown"
+    },
+    "children": [
+      {
+        "name": "Geevarghese Cheriyan",
+        "attributes": {
+          "Wife": "Kochitamma"
+        },
+        "children": [
+          {
+            "name": "M.G. Cheria (Kochukunju)",
+            "attributes": {
+              "Wife": "Annamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Thommi",
+            "attributes": {
+              "Wife": "Mariamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Cheriyan",
+            "attributes": {
+              "Wife": "Saramma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. John (Ranger)",
+            "attributes": {
+              "Wife": "Achamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Easow",
+            "attributes": {
+              "Wife": "Aleyamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Geevarghese (Writer)",
+            "attributes": {
+              "Wife": "Annamma"
+            },
+            "children": [
+              {
+                "name": "M.G.Varghese (Unni)",
+                "attributes": {
+                  "Wife": "Achamma/Aleyamma"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. John",
+                "attributes": {
+                  "::": "1900-1979",
+                  "Wife": "Mariamma John",
+                  ":": "1908-1987"
+                },
+                "children": [
+                  {
+                    "name": "M.G. Annamma (Ponnamma)",
+                    "attributes": {
+                      ":": "1926-1983",
+                      "Husband": "P.J. Abraham",
+                      "": "1924-2000"
+                    },
+                    "children": [
+                      {
+                        "name": "Joseph P Abraham (Prasad)",
+                        "attributes": {
+                          "::": ":1950-2013",
+                          "Wife": "Molly Joseph",
+                          ":": "1952"
+                        },
+                        "children": [
+                          {
+                            "name": "Pramod Joseph",
+                            "attributes": {
+                              "::": "1980",
+                              "Wife": "Bony Susan Mathew",
+                              ":": "1983"
+                            },
+                            "children": [
+                              {
+                                "name": "Johan Joseph Pramod",
+                                "attributes": {
+                                  "::": "2017"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Naethan Mathew Pramod",
+                                "attributes": {
+                                  "::": "2019"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Priya Ann Josph",
+                            "attributes": {
+                              "::": "1987",
+                              "Husband": "Ajith Chandy",
+                              ":": "1986"
+                            },
+                            "children": [
+                              {
+                                "name": "Rayan Chandy Ajith",
+                                "attributes": {
+                                  "::": "2016"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Preethy Ann Joseph",
+                            "attributes": {
+                              "::": "1987",
+                              "Husband": "George T Pattamthanam",
+                              ":": "1982"
+                            },
+                            "children": [
+                              {
+                                "name": "Ashlyn George Pattathanam",
+                                "attributes": {
+                                  "::": "2018"
+                                },
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "John P Abraham (Joji)",
+                        "attributes": {
+                          "::": "1953",
+                          "Wife": "Susan John (Sally)",
+                          ":": "1957"
+                        },
+                        "children": [
+                          {
+                            "name": "Sajeena Ann John",
+                            "attributes": {
+                              "::": "1985",
+                              "Husband": "Ramakrishna Acharya",
+                              ":": "1984"
+                            },
+                            "children": [
+                              {
+                                "name": "Abhay Acharya",
+                                "attributes": {
+                                  "::": "2010"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Jisan Abraham John",
+                            "attributes": {
+                              "::": "1988",
+                              "Wife": "Maya Meriya John",
+                              ":": "1989"
+                            },
+                            "children": [
+                              {
+                                "name": "Charlene Susan John",
+                                "attributes": {
+                                  "Dob": "29.09.2021"
+                                },
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Abraham P Abraham (Shaji)",
+                        "attributes": {
+                          "::": "1958",
+                          "Wife": "Leny Elizabeth",
+                          ":": "1960"
+                        },
+                        "children": [
+                          {
+                            "name": "Evin Abraham",
+                            "attributes": {
+                              "::": "1987",
+                              "Wife": "Sneha George",
+                              ":": "1988"
+                            },
+                            "children": [
+                              {
+                                "name": "Abraham Evin",
+                                "attributes": {
+                                  "::": "2021"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Ensa Abraham",
+                            "attributes": {
+                              "::": "1991",
+                              "Husband": "Ratheesh K. Jos",
+                              ":": "1981"
+                            },
+                            "children": [
+                              {
+                                "name": "Joanna Ratheesh",
+                                "attributes": {
+                                  ":": "2019"
+                                },
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sherly Mathew",
+                        "attributes": {
+                          "::": "1960",
+                          "Husband": "Mathewkutty P.V.",
+                          "": ":1954-2001"
+                        },
+                        "children": [
+                          {
+                            "name": "Shimi Ann Mathew",
+                            "attributes": {
+                              "::": "1982",
+                              "Husband": "Shelley Baby",
+                              ":": "1977"
+                            },
+                            "children": [
+                              {
+                                "name": "Sera Mariam Manoj",
+                                "attributes": {
+                                  "::": "2009"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Sharon M. Manoj",
+                                "attributes": {
+                                  "::": "2012"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Varghese Mathew",
+                            "attributes": {
+                              "::": "1986",
+                              "Wife": "Liby Varghese",
+                              ":": "1992"
+                            },
+                            "children": [
+                              {
+                                "name": "Evanniya Mariam Varghese",
+                                "attributes": {
+                                  "::": "2016"
+                                },
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Varghese P Abraham (Saji)",
+                        "attributes": {
+                          "::": "1963",
+                          "Wife": "Susan Varghese (Bessy)",
+                          ":": "1967"
+                        },
+                        "children": [
+                          {
+                            "name": "Jiby Varghese",
+                            "attributes": {
+                              "::": "1992"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Juvy Ann Varghese",
+                            "attributes": {
+                              "::": "1998"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Sheeba Joseph",
+                        "attributes": {
+                          "::": "1972",
+                          "Husband": "Joseph T.K.",
+                          ":": "1962"
+                        },
+                        "children": [
+                          {
+                            "name": "Vimal Joseph",
+                            "attributes": {
+                              "::": "1993"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Nirmal Joseph",
+                            "attributes": {
+                              "::": "2000"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Rachel Ninan (Rosamma)",
+                    "attributes": {
+                      "::": "1928-1964",
+                      "Husband": "P.O. Ninan (Thankachen)",
+                      ":": "1928-1977"
+                    },
+                    "children": [
+                      {
+                        "name": "Beena P Ninan",
+                        "attributes": {
+                          "::": "07.06.1960",
+                          "Husband": "Jacob T.C.",
+                          ":": "30.09.1956"
+                        },
+                        "children": [
+                          {
+                            "name": "Seenu Ann Jacob",
+                            "attributes": {
+                              "::": "1983",
+                              "Husband": "Nidhin Mathew George",
+                              ":": "????"
+                            },
+                            "children": [
+                              {
+                                "name": "Anna Merry George",
+                                "attributes": {
+                                  "::": "2018"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Ava Rae George",
+                                "attributes": {
+                                  "::": "2021"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Sanu Ninan Jacob",
+                            "attributes": {
+                              "::": "1985",
+                              "Wife": "Susan P. Raju",
+                              ":": "1987"
+                            },
+                            "children": [
+                              {
+                                "name": "Jaiden Jacob Sanu",
+                                "attributes": {
+                                  "::": "2016"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Jaira Rachel Sanu",
+                                "attributes": {
+                                  ":": "2020"
+                                },
+                                "children": null
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Seena P. Ninan",
+                        "attributes": {
+                          "::": "1961-2003",
+                          "Husband": "John Kurien",
+                          ":": "????"
+                        },
+                        "children": [
+                          {
+                            "name": "Jiss Rachel John",
+                            "attributes": {
+                              "::": "1991",
+                              "Husband": "Aby Joseph",
+                              ":": "1988"
+                            },
+                            "children": [
+                              {
+                                "name": "Evan Aby",
+                                "attributes": {
+                                  "::": "2016"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Essa Aby",
+                                "attributes": {
+                                  "::": "2018"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Jee Ninan John",
+                            "attributes": {
+                              "::": "1992",
+                              "Wife": "Nimya George"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "M.J. Varghese (Kuttappan)",
+                    "attributes": {
+                      "::": "1930-1939"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "M.J. Rajan",
+                    "attributes": {
+                      "::": "1932-1996",
+                      "Wife": "Valsamma",
+                      ":": "1938-2018"
+                    },
+                    "children": [
+                      {
+                        "name": "Leena Sunny",
+                        "attributes": {
+                          "::": "1962",
+                          "Husband": "Sunny Philip",
+                          ":": "1959"
+                        },
+                        "children": [
+                          {
+                            "name": "Aby Sunny Philip",
+                            "attributes": {
+                              "::": "1987",
+                              "Wife": "Daliya Aby",
+                              ":": "1989"
+                            },
+                            "children": [
+                              {
+                                "name": "John Aby Varghese",
+                                "attributes": {
+                                  "::": "2017"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Japheth Aby Paul",
+                                "attributes": {
+                                  "::": "2017"
+                                },
+                                "children": null
+                              },
+                              {
+                                "name": "Anna Aby Mareyam",
+                                "attributes": {
+                                  "::": "2019"
+                                },
+                                "children": null
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Bobby Sunny David",
+                            "attributes": {
+                              "::": "1990",
+                              "Wife": "Liya Bobby",
+                              ":": "1997"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Latha Salim",
+                        "attributes": {
+                          "::": "1964",
+                          "Husband": "Ranjit Salim Thayyil",
+                          ":": "1954"
+                        },
+                        "children": [
+                          {
+                            "name": "Lavanya Mary Thayyil",
+                            "attributes": {
+                              "::": "1990"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Beena Saji",
+                        "attributes": {
+                          "::": "1973",
+                          "Husband": "Saji Zachariah",
+                          ":": "1967"
+                        },
+                        "children": [
+                          {
+                            "name": "Evelyn Sarah Saji",
+                            "attributes": {
+                              "::": "2001"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Emilina Mary Saji",
+                            "attributes": {
+                              "::": "2003"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "M.J. Mary (Thankamma)",
+                    "attributes": {
+                      "::": "1935-1939"
+                    },
+                    "children": null
+                  },
+                  {
+                    "name": "Mary John (Mercy)",
+                    "attributes": {
+                      "::": "1939",
+                      "Husband": "John Thomas",
+                      ":": "1936"
+                    },
+                    "children": [
+                      {
+                        "name": "Jessy Kochummen",
+                        "attributes": {
+                          "::": "1966",
+                          "Husband": "Oommen Kochummen",
+                          ":": "1964"
+                        },
+                        "children": [
+                          {
+                            "name": "Joel Kochummen (Unni)",
+                            "attributes": {
+                              "::": "1995"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Elza Kochummen",
+                            "attributes": {
+                              "::": "2000"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Thomas John (Jiji)",
+                        "attributes": {
+                          "::": "1970-2016",
+                          "Wife": "Elizabeth Thomas (Renu)",
+                          ":": "1976"
+                        },
+                        "children": [
+                          {
+                            "name": "Steve John (Nithin)",
+                            "attributes": {
+                              "::": "2001"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Joan Thomas",
+                            "attributes": {
+                              "::": "2003"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "M. John Joy",
+                    "attributes": {
+                      "::": "1939",
+                      "Wife": "Cicily Joy",
+                      ":": "1955"
+                    },
+                    "children": [
+                      {
+                        "name": "John Joy M (Anil)",
+                        "attributes": {
+                          "::": "1967",
+                          "Wife": "Divya Susan John",
+                          ":": "1969"
+                        },
+                        "children": [
+                          {
+                            "name": "Reuben M.V. John",
+                            "attributes": {
+                              "::": "1996"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Jordan John M",
+                            "attributes": {
+                              "::": "2000-2017"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Alexander Joy M (Ajith)",
+                        "attributes": {
+                          "::": "1970",
+                          "Wife": "Annu Alexander",
+                          ":": "1971"
+                        },
+                        "children": [
+                          {
+                            "name": "David J M Alexander (Bobby)",
+                            "attributes": {
+                              "::": "2002"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Leah Grace Alexander (Emma)",
+                            "attributes": {
+                              "::": "2004"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Sosamma Varghese (Ivy)",
+                    "attributes": {
+                      "::": "1942",
+                      "Husband": "P.C. Varghesekunju (Achenkunju)",
+                      ":": "1936-1990"
+                    },
+                    "children": [
+                      {
+                        "name": "Asha Varghese",
+                        "attributes": {
+                          "::": "1968-1969"
+                        },
+                        "children": null
+                      },
+                      {
+                        "name": "Alex Varghese (Ajith)",
+                        "attributes": {
+                          "::": "1966",
+                          "Wife": "Shyla Alex",
+                          ":": "1967"
+                        },
+                        "children": [
+                          {
+                            "name": "Ashmin Alex",
+                            "attributes": {
+                              "::": "1992",
+                              "Husband": "Nixon Philip",
+                              ":": "1989"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Jesmin Alex",
+                            "attributes": {
+                              "::": "1995"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Mini Binney Varghese",
+                        "attributes": {
+                          "::": "1970",
+                          "Husband": "Binney Varghese Daniel",
+                          ":": "1963"
+                        },
+                        "children": [
+                          {
+                            "name": "Sreya Elsa Varghese",
+                            "attributes": {
+                              "::": "1994",
+                              "Husband": "Bevin Mathew Thomas"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Nashwa Ivy Varghese",
+                            "attributes": {
+                              "::": "2001"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Aney Mathew Geevarghese",
+                        "attributes": {
+                          "::": "1973",
+                          "Husband": "Mathew Geevarghese",
+                          ":": "1972"
+                        },
+                        "children": [
+                          {
+                            "name": "Mathew Geevarghese III",
+                            "attributes": {
+                              "::": "1999"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Grace Ann Geevarghese",
+                            "attributes": {
+                              "::": "2001"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Gloria Susan Geevarghese",
+                            "attributes": {
+                              "::": "2002"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Anish Babu Varghese",
+                        "attributes": {
+                          "::": "1978",
+                          "Wife": "Anu Anish",
+                          ":": "1984"
+                        },
+                        "children": [
+                          {
+                            "name": "Faith Susan Varghese",
+                            "attributes": {
+                              "::": "2013"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Johnson Manappallil (Thankachen)",
+                    "attributes": {
+                      "::": "1944",
+                      "Wife": "Annamma Johnson",
+                      ":": "1949"
+                    },
+                    "children": [
+                      {
+                        "name": "Mini Bobby Oommen",
+                        "attributes": {
+                          "::": "1974",
+                          "Husband": "Bobby Oommen Philips",
+                          ":": "1969"
+                        },
+                        "children": [
+                          {
+                            "name": "Josh Philip Oommen",
+                            "attributes": {
+                              "::": "2001"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Joanna Sarah Oommen",
+                            "attributes": {
+                              "::": "2004"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "John Johnson M (Manu)",
+                        "attributes": {
+                          "::": "1983",
+                          "Wife": "Nishu John",
+                          ":": "1987"
+                        },
+                        "children": [
+                          {
+                            "name": "Sarah Anna John",
+                            "attributes": {
+                              "::": "2019"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Alexander M. John (Laly)",
+                    "attributes": {
+                      "::": "1946",
+                      "Wife": "Molly Alexander",
+                      ":": "1949"
+                    },
+                    "children": [
+                      {
+                        "name": "Jeni Manoj",
+                        "attributes": {
+                          "::": "1980",
+                          "Husband": "Manoj Jacob",
+                          ":": "1980"
+                        },
+                        "children": [
+                          {
+                            "name": "Nathan Jacob Manoj",
+                            "attributes": {
+                              "::": "2008"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Janice Manoj",
+                            "attributes": {
+                              "::": "2011"
+                            },
+                            "children": null
+                          }
+                        ]
+                      },
+                      {
+                        "name": "John Alexander M (Jerin)",
+                        "attributes": {
+                          "::": "1982",
+                          "Wife": "Linju John M",
+                          ":": "1984"
+                        },
+                        "children": [
+                          {
+                            "name": "Kesia Susan John",
+                            "attributes": {
+                              "::": "2012"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Ivana Mary John",
+                            "attributes": {
+                              "::": "2014"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Jayden John Alexander",
+                            "attributes": {
+                              "::": "2017"
+                            },
+                            "children": null
+                          },
+                          {
+                            "name": "Dan John Varghese",
+                            "attributes": {
+                              "::": "2020"
+                            },
+                            "children": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "M.G. Kunjamma",
+                "attributes": {
+                  "Husband": "K.G. Varghese"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G.Thomas",
+                "attributes": {
+                  "Wife": "Kunjamma Thomas"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Chinnamma",
+                "attributes": {
+                  "Husband": "Rev.Fr. George Purackal"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Thankamma",
+                "attributes": {
+                  "Husband": "Itty Kaipancherril"
+                },
+                "children": null
+              },
+              {
+                "name": "M.G. Samuel",
+                "attributes": {
+                  "Wife": "Saramma Samuel"
+                },
+                "children": null
+              }
+            ]
+          },
+          {
+            "name": "M.G. Mathen",
+            "attributes": {
+              "Wife": "Rahelamma"
+            },
+            "children": null
+          },
+          {
+            "name": "Rev.Fr. M.G. Jacob (Chackochen)",
+            "attributes": {
+              "Wife": "Mariamma"
+            },
+            "children": null
+          },
+          {
+            "name": "M.G. Daniel",
+            "attributes": {
+              "Wife": "Aleyamma"
+            },
+            "children": null
+          }
+        ]
+      },
+      {
+        "name": "Mathai Cheriyan",
+        "attributes": {
+          "Wife": "Mariamma"
+        },
+        "children": null
+      }
+    ]
+  },
+  "configurations": {
+    "title": "M. G. John & Descendants",
+    "orientation": "vertical",
+    "translateX": 328.4199951171875,
+    "translateY": 250,
+    "pathFunc": "step",
+    "renderCustomNodeElement": "svg",
+    "collapsible": true,
+    "shouldCollapseNeighborNodes": false,
+    "initialDepth": 2,
+    "depthFactor": null,
+    "zoomable": true,
+    "zoom": 0.5,
+    "scaleExtent": {
+      "min": 0.1,
+      "max": 1
+    },
+    "separation": {
+      "siblings": 1.25,
+      "nonSiblings": 1.25
+    },
+    "nodeSize": {
+      "x": 200,
+      "y": 125
+    },
+    "enableLegacyTransitions": true,
+    "transitionDuration": 500,
+    "styles": {
+      "nodes": {
+        "node": {
+          "circle": {
+            "fill": "#52e2c5"
+          },
+          "attributes": {
+            "stroke": "#000"
+          }
+        },
+        "leafNode": {
+          "circle": {
+            "fill": "transparent"
+          },
+          "attributes": {
+            "stroke": "#000"
+          }
+        }
+      }
+    }
+  }
+}
