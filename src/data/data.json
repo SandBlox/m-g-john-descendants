@@ -703,7 +703,15 @@
                               "Husband": "Nixon Philip",
                               ":": "1989"
                             },
-                            "children": null
+                            "children": [
+                              {
+                                "name": "Zavion Nixon",
+                                "attributes": {
+                                  ":": "20.12.2021"
+                                },
+                                "children": null
+                              }
+                            ]
                           },
                           {
                             "name": "Jesmin Alex",
